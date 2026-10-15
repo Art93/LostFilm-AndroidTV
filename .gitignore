@@ -1,0 +1,10 @@
+                                                                                                                                             
+  # macOS                                                                                                                                    
+  .DS_Store       
+                                                                                                                                             
+  # Windows                                                                                                                                  
+  Thumbs.db
+  desktop.ini
+
+  # JVM crash logs
+  hs_err_pid*.log
